@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'rswag/specs/example_group_helpers'
-require 'pry'
 
 module Rswag
   module Specs
